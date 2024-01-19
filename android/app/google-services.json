@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782350910994",
+    "firebase_url": "https://docs-24287-default-rtdb.firebaseio.com",
+    "project_id": "docs-24287",
+    "storage_bucket": "docs-24287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782350910994:android:4e024a994529b536443acb",
+        "android_client_info": {
+          "package_name": "com.example.googledocs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlqvvLzI71_qILqE5Z7PjYblBgaCfbsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
